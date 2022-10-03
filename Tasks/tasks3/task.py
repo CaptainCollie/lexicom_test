@@ -39,5 +39,5 @@ def test_make_file_names():
 
 
 if __name__ == '__main__':
-    test_make_file_names()
+    test_optimize_saving()
     test_make_file_names()
