@@ -1,5 +1,5 @@
-from Tasks.tasks1.task import optimize_saving
-from Tasks.tasks2.task import make_file_names
+from Tasks.tasks1.test import optimize_saving
+from Tasks.tasks2.test import make_file_names
 
 
 def test_optimize_saving():
